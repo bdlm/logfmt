@@ -87,7 +87,7 @@ func getCaller() string {
 	a := 0
 	for {
 		if pc, file, line, ok := runtime.Caller(a + 2); ok {
-			if !strings.Contains(strings.ToLower(file), "github.com/sirupsen/logrus") && !strings.Contains(strings.ToLower(file), "github.com/mkenney/go-log-fmt") {
+			if !strings.Contains(strings.ToLower(file), "github.com/sirupsen/logrus") && !strings.Contains(strings.ToLower(file), "github.com/bdlm/logfmt") {
 				caller = fmt.Sprintf("%s:%d %s", path.Base(file), line, runtime.FuncForPC(pc).Name())
 				break
 			}
