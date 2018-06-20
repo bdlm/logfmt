@@ -14,7 +14,7 @@ A simple https://github.com/sirupsen/logrus log formatter. Includes
 ```go
 import (
 	log "github.com/sirupsen/logrus"
-	logfmt "github.com/mkenney/go-log-fmt"
+	logfmt "github.com/bdlm/logfmt"
 )
 ```
 
