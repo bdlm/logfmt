@@ -1,4 +1,4 @@
-# go-log-fmt
+# logfmt
 
 A simple https://github.com/sirupsen/logrus log formatter. Includes
 
