@@ -1,7 +1,7 @@
 # logfmt
 
 <p align="center">
-	<a href="https://github.com/bdlm/logfmt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bdlm/logfmt.svg" alt="MIT License"></a>
+	<a href="https://github.com/bdlm/logfmt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bdlm/logfmt.svg" alt="BSD-3-Clause"></a>
 	<a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
 	<a href="https://travis-ci.org/bdlm/logfmt"><img src="https://travis-ci.org/bdlm/logfmt.svg?branch=master" alt="Build status"></a>
 	<a href="https://codecov.io/gh/bdlm/logfmt"><img src="https://img.shields.io/codecov/c/github/bdlm/logfmt/master.svg" alt="Coverage status"></a>
