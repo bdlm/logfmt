@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/bdlm/logfmt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/bdlm/logfmt.svg" alt="MIT License"></a>
-	<a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#alpha"><img src="https://img.shields.io/badge/stability-alpha-f4d03f.svg" alt="Beta"></a>
+	<a href="https://github.com/mkenney/software-guides/blob/master/STABILITY-BADGES.md#mature"><img src="https://img.shields.io/badge/stability-mature-008000.svg" alt="Mature"></a>
 	<a href="https://travis-ci.org/bdlm/logfmt"><img src="https://travis-ci.org/bdlm/logfmt.svg?branch=master" alt="Build status"></a>
 	<a href="https://codecov.io/gh/bdlm/logfmt"><img src="https://img.shields.io/codecov/c/github/bdlm/logfmt/master.svg" alt="Coverage status"></a>
 	<a href="https://goreportcard.com/report/github.com/bdlm/logfmt"><img src="https://goreportcard.com/badge/github.com/bdlm/logfmt" alt="Go Report Card"></a>
