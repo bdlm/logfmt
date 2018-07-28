@@ -2,11 +2,18 @@ notifications:
     slack:
         secure: a/a2ysHNf8ENeTXC+isgSP0M4E3ovqAnQAQXo3MDINGtfgwo6yUZnRnVEe/SjWfUlA5uq2GKVg6oBiRBCL2h8WIYg84cXuWxqhB0+chVJB/WWZnxqzy2Vw0sj6sqV2EMa6MKs8jO8Hj2LmM9YgwOBhJrQi9mDFnMN+p0kr+hMWj22fZ6JO0WscXhLD0pIFZFuyBBL0jUF2V5rltpr5wDolgYhdhQOf6DDmN/vMmx9pley60OPZe5MXHWZ7JH8btDjeNR5aLTZ/jXLvsdcS8h1Ktbz0K34CaT7yGQII1B+cbUjmeu88KyKpcMR8asJAaukTdWVFPH6OzIYNXNoZ8VDwk/JFdhGQ0BrdZractCIvO/Opgzo2L+qNPYg2Cwu3xPkr/HeI2P8M55YlhlNc7FmBEcnlXk12xcbE1wpC4MeM/I0B656mHHYkMWpkP0SQ93Oy3BkB0TQA70sQBQHBsGUnTKkEB6c59rOCMrMPCGj2EmcOORvTmZK/Ytc6SH8/FJ+YWb5Ui0EJVlZMI/XVJu+kPEeBmcXW7UHaSZ+YPzvL/mYqMay+mjoyfGIKlePZYmnqVp/4dA+tipYCIsTFrxEvayVTPHyR+5D+m/BSPeYVu+t5vwARzofztUyHQEE4UKt1U85gJxcU+fWRUSzCEEF7RWufVoeTYc1gLvs5AGsdg=
 
+git:
+    depth: 1
+    quiet: true
+    submodules: false
+
+branches:
+    only:
+        - master
+
 language: go
 go_import_path: github.com/bdlm/logfmt
 go:
-    - 1.5.x
-    - 1.6.x
     - 1.7.x
     - 1.8.x
     - 1.9.x
