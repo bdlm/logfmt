@@ -6,6 +6,7 @@
 	<a href="https://travis-ci.org/bdlm/logfmt"><img src="https://travis-ci.org/bdlm/logfmt.svg?branch=master" alt="Build status"></a>
 	<a href="https://codecov.io/gh/bdlm/logfmt"><img src="https://img.shields.io/codecov/c/github/bdlm/logfmt/master.svg" alt="Coverage status"></a>
 	<a href="https://goreportcard.com/report/github.com/bdlm/logfmt"><img src="https://goreportcard.com/badge/github.com/bdlm/logfmt" alt="Go Report Card"></a>
+	<a href="https://golangci.com/r/bdlm/logfmt"><img src="https://golangci.com/badges/github.com/bdlm/logfmt.svg" alt="GolangCI"></a>
 	<a href="https://github.com/bdlm/logfmt/issues"><img src="https://img.shields.io/github/issues-raw/bdlm/logfmt.svg" alt="Github issues"></a>
 	<a href="https://github.com/bdlm/logfmt/pulls"><img src="https://img.shields.io/github/issues-pr/bdlm/logfmt.svg" alt="Github pull requests"></a>
 	<a href="https://godoc.org/github.com/bdlm/logfmt"><img src="https://godoc.org/github.com/bdlm/logfmt?status.svg" alt="GoDoc"></a>
